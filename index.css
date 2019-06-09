@@ -1,7 +1,7 @@
 #leftPanel{
     background-color: #343148;
     height: 100%;
-    width: 30%;
+    width: 25%;
     float: left;
     padding-top: 0%;
 }
@@ -9,7 +9,8 @@
 #rightPanel{
     height: 100%;
     float: left;
-    width: 70%
+    width: 75%;
+	background-color: #F0F3F5;
 }
 
 .headerPanel{
@@ -22,7 +23,7 @@
     position: absolute;
     top: 50%;
     margin-top: -125px;
-    width: 30%
+    width: 25%
 }
 
 .iconText{
