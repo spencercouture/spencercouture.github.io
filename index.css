@@ -1,0 +1,55 @@
+#leftPanel{
+    background-color: #343148;
+    height: 100%;
+    width: 30%;
+    float: left;
+    padding-top: 0%;
+}
+
+#rightPanel{
+    height: 100%;
+    float: left;
+    width: 70%
+}
+
+.headerPanel{
+    height: 10%;
+    background-color: #F0EAD6;
+}
+
+#iconDiv{
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    margin-top: -125px;
+    width: 30%
+}
+
+.iconText{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.emailText{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    font-family: monospace;
+    display:block;
+}
+
+#myPic{
+    width: 120px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin: 0 auto;
+    display: block;
+}
+
+html, body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
