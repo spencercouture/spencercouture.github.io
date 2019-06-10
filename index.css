@@ -9,13 +9,22 @@
 #rightPanel{
     height: 100%;
     float: left;
-    width: 75%;
 	background-color: #F0F3F5;
+    width: 75%;
+    overflow: auto;
 }
 
 .headerPanel{
     height: 10%;
-    background-color: #F0EAD6;
+    padding-top: 5%;
+    text-align: center;
+    font-family: monospace;
+}
+
+.contentPanel{
+    padding: 30px;
+    font-size: 18px;
+    font-family: monospace;
 }
 
 #iconDiv{
